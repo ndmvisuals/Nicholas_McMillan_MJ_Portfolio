@@ -17,7 +17,7 @@ My first year of graduate school was mostly virtual and therefore resources to d
 
 I am currently deciding between two job offers. I was offered the xxx at xxx (redacted since hasn't been made public yet), and a potential job at Newsy as a video editor and animator. While at this time I have not decided which one I will be pursuing, both options would allow me to continue pursuing journalism through data and video. 
 
-I believe that the responsible and creative pairing of visuals and data leads to more powerful narratives. I am excited to continuing telling these stories after graduation.
+I believe that the responsible and creative pairing of visuals and data leads to more powerful narratives. I am excited to continue telling these stories after graduation.
 
 ## Resume
 
