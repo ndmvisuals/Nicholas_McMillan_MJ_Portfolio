@@ -22,6 +22,7 @@ I believe that the responsible and creative pairing of visuals and data leads to
 ## Resume
 
 - General resume can be found [here](https://github.com/ndmvisuals/data_journalism_portfolio/blob/main/resume/nick_mcmillan_resume.pdf)
+	- ![](https://github.com/ndmvisuals/data_journalism_portfolio/blob/main/resume/nick_mcmillan_resume.png)
 - Coding resume can be found [here](https://github.com/ndmvisuals/data_journalism_portfolio)
 
 ## Clips while at UMD
